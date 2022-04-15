@@ -1,8 +1,8 @@
 h1 {
     color: blue;
-    font size:30 px;
+    font-size:30 px;
     position: absolute;
-    transform: translate(80%,30%)
+    transform: translate(80%,30%);
 }
 
 body{
